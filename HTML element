@@ -1,0 +1,37 @@
+<head>
+    <title>HTML element</title>
+</head>
+</body>
+<h1>HOSTEL ADDMISSION FORM</h1>
+    <from action="">
+        Candidate Name&nbsp;&nbsp;&nbsp;<input type="text" name="Username"><br><br>
+        Father's/Guradian's name&nbsp;&nbsp;&nbsp;<input type="Username"><br><br>
+        Father's/Guradian's Name&nbsp;&nbsp;&nbsp;<input type="Username"><br><br>
+        Parmanent Address &nbsp;&nbsp;&nbsp;<input type="Username"><br><br>
+        Parents Contact NO &nbsp;&nbsp;&nbsp;<input type="Username"><br><br>
+        Date of Birth &nbsp;&nbsp;&nbsp;<input type="datetime-local" name="sdate"> <br><br>
+        Branch:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio"name="Branch"value="Computer">Computer
+        Branch:<input type="radio"name="Branch"value="Information Tech.">Computer
+        Branch:<input type="radio"name="Branch"value="Electrical Engg.">Electrical Engg.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio"name="Branch"value="Mechanical Engg.">Mechanical Engg.
+        Branch:<input type="radio"name="Branch"value="Civil Engg.">Civil Engg.
+        Branch:<input type="radio"name="Branch"value="Automobile Emgg.">Automobile Engg.<br><br>
+
+        Category:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio"name="Category"value="Open">Open
+        Category:<input type="radio"name="Category"value="OBC">OBC
+        Category:<input type="radio"name="Category"value="NT">NT
+        Category:<input type="radio"name="Category"value="SC">SC
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio"name="Category"value="DT/VJ">DT/VJ<br><br>
+
+        Class:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="class"value="FYCO">FYCO 
+        Class:<input type="radio" name="class"value="SYCO">SYCO
+        Class:<input type="radio" name="class" value="TYCO">TYCO<br><br>
+
+        <button>Submit</button>
+
+         </from>
+</body>
+
+
+
+

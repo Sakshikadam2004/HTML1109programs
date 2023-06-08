@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>From Element</title>
+    </head>
+<body>
+    <from action=" ">
+<table>
+    <tr>
+        <td>Username</td>
+        <td><input type="text" name="Username"></td>
+    </tr>
+    <tr>
+        <td>Password</td>
+        <td><input type="Password" Name="Password"></td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: left;">
+            <button>Login</button>
+</td>
+</tr>
+</table>
+    
+
+    </body>
