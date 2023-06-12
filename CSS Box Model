@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>CSS Box Model</title>
+    </head>
+    <h1>CSS Box Model</h1>
+    <div style="margin: 25px  75px; border:40px;
+    padding:40px;
+    border-color:Red;
+    border-style: solid;">
+
+In June 1994, SK entered Korea telecommunications business by <br>
+becoming Korea Mobile Telecommunication Service's <br>
+</div>
+
